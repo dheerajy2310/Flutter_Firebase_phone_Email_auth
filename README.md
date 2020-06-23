@@ -1,6 +1,6 @@
-# attraction
+# Authentication
 
-A new Flutter project.
+It is a Flutter Firebase Application,In this I have enabled Phone authentication and Email authentication and linked these both authentications with 'LinkWithCredentials'.Here You can login either with email and password or mobile number otp verification for a single user.
 
 ## Getting Started
 
